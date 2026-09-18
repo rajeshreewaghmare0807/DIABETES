@@ -1,6 +1,6 @@
 
 # DIABETES
-Data preprocessing and cleaning of a diabetes dataset for analysis and machine learning.
+Diabetes dataset preprocessing and exploratory data analysis using Python, including data inspection, missing-value checking, statistical analysis, visualization, and feature scaling.
 # Diabetes Data Preprocessing
 
 ## 1. Project Overview
